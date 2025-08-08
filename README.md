@@ -1,8 +1,5 @@
 # 🌍 CO₂ Emissions Prediction Using Machine Learning
 
-**Author:** Nadeen Ali  
-**Date:** 2024  
-
 ---
 
 ## 📌 Overview
