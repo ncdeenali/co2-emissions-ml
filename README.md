@@ -8,18 +8,6 @@ The goal is to evaluate and compare different machine learning algorithms to ide
 
 ---
 
-## 📊 Dataset
-- **Source:** Canadian Vehicle CO₂ Emissions dataset  
-- **Features:**
-  - Engine Size (L)
-  - Cylinders
-  - Fuel Consumption (City, Highway, Combined)
-  - Fuel Type
-- **Target:** CO₂ Emissions (g/km)
-- **Cleaning:** No missing values detected; categorical variables encoded; irrelevant fields dropped.
-
----
-
 ## 🔍 Methods
 ### Data Exploration
 - Visualized CO₂ emissions distribution and feature correlations.
@@ -27,7 +15,7 @@ The goal is to evaluate and compare different machine learning algorithms to ide
 - Examined linear vs. non-linear feature relationships.
 
 ### Models Implemented
-1. **Polynomial Regression** (degree 2)
+1. **Polynomial Regression**
 2. **Random Forest Regressor**
 3. **Gradient Boosting Regressor**
 4. **XGBoost Regressor**
